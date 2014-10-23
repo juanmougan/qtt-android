@@ -1,4 +1,4 @@
-package ar.com.ceiucaweb.qtt.quetetomaron;
+package ar.com.ceiucaweb.qtt.quetetomaron.ui;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -9,6 +9,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
+import ar.com.ceiucaweb.qtt.quetetomaron.R;
 
 
 public class MainActivity extends Activity {
