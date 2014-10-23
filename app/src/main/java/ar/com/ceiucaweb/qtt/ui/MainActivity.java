@@ -1,4 +1,4 @@
-package ar.com.ceiucaweb.qtt.quetetomaron.ui;
+package ar.com.ceiucaweb.qtt.ui;
 
 import android.app.Activity;
 import android.app.Fragment;
